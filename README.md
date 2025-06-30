@@ -2,7 +2,7 @@
 
 This machine learning project aims to predict the salaries of data scientists using regression models. Based on various features such as experience level, employment type, remote work ratio, and company size, the model helps estimate salaries in USD.
 
-## 📌 Problem Statement
+##  Problem Statement
 With the increasing demand for data professionals, it's important to understand how various job-related factors influence salary. This project builds a regression model to predict salaries based on job details.
 
 ##  Dataset
@@ -19,7 +19,7 @@ With the increasing demand for data professionals, it's important to understand 
 - pandas, numpy, matplotlib, seaborn  
 - scikit-learn (GradientBoostingRegressor)
 
-## 🛠 Steps Performed
+##  Steps Performed
 1. Loaded and cleaned the dataset
 2. Performed exploratory data analysis
 3. Encoded categorical variables
